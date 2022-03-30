@@ -9,8 +9,8 @@ RIGTH:39
 document.addEventListener("keyup", dibujarTeclado);
 var cuadrito = document.getElementById("area_de_dibujo");
 var papel = cuadrito.getContext("2d");
-var x = 150;
-var y = 150;
+var x = 450;
+var y = 450;
 
 dibujarLinea("red", 450, 450, 450, 450, papel);
 
