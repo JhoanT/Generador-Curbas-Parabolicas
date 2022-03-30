@@ -12,7 +12,7 @@ var papel = cuadrito.getContext("2d");
 var x = 150;
 var y = 150;
 
-dibujarLinea("red", 150, 150, 150, 150, papel);
+dibujarLinea("red", 450, 450, 450, 450, papel);
 
 function dibujarLinea(color, xinicial, yinicial, xfinal, yfinal, lienzo)
 {
